@@ -68,7 +68,7 @@
 ### 拉取项目
 
 ```bash
-git clone https://gitee.com/lingshulian/vue3-socket-chat
+git clone https://github.com/lingshulian/vue3-socket-chat.git
 ```
 
 ### 基本目录

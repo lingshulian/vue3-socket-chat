@@ -22,12 +22,6 @@
 
 ![登录](https://github.com/lingshulian/vue3-socket-chat/blob/main/image/登录.gif)
 
-
-
-### 标题
-
-
-
 ![聊天](https://github.com/lingshulian/vue3-socket-chat/blob/main/image/聊天.gif)
 
 ![项目截图2](https://github.com/lingshulian/vue3-socket-chat/blob/main/image/项目截图2.jpg)
@@ -74,7 +68,7 @@
 ### 拉取项目
 
 ```bash
-git clone https://gitee.com/lingshulian/vue3-socket-chat
+git clone https://github.com/lingshulian/vue3-socket-chat.git
 ```
 
 ### 基本目录
