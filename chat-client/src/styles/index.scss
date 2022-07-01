@@ -1,0 +1,35 @@
+// :root {
+//   --ep-color-primary: red;
+// }
+body {
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+}
+
+a {
+    color: var(--ep-color-primary);
+}
+
+.emo-image {
+    width: 25px;
+    vertical-align: sub;
+}
+
+input[type=file],
+
+/* FF, IE7+, chrome (except button) */
+
+input[type=file]::-webkit-file-upload-button {
+    /* chromes and blink button */
+    cursor: pointer;
+}
+
+.chat-icon-popover.is-light {
+    background: var(--ep-bg-color-overlay)!important;
+    width: 404px!important;
+    @media (max-width: 1024px) {
+        width: 90%!important;
+    }
+}
