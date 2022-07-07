@@ -52,7 +52,7 @@
 | Element Plus | 基于 Vue 3，面向设计师和开发者的组件库 | [https://element-plus.gitee.io/zh-CN/](https://element-plus.gitee.io/zh-CN/) |
 | Pinia        | 新一代状态管理工具                     | [https://pinia.vuejs.org/](https://pinia.vuejs.org/)         |
 | Vue Router   | Vue.js 的官方路由                      | [https://router.vuejs.org/zh/](https://router.vuejs.org/zh/) |
-| Uno css      | 即时按需原子 CSS 引擎                  | https://github.com/unocss/unocss](https://github.com/unocss/unocss) |
+| Uno css      | 即时按需原子 CSS 引擎                  | [https://github.com/unocss/unocss](https://github.com/unocss/unocss) |
 
 | 后端      | 描述                                                         | 学习网站                                                     |
 | --------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
